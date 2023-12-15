@@ -19,10 +19,12 @@ Server
 Client
 ![Client Class Diagram](Q/Client/client_class_diagram.png)
 
-<b>Interaction Diagrams:</b>
-
 Client Interaction
 ![Client Interaction Diagram](Q/Client/client_interaction_diagram.png)
+
+<br>
+<b>Remote Interaction Diagrams:</b>
+<br>
 
 Remote Signup Interaction
 ![Remote Signup Interaction Diagram](Q/Server/remote_signup.png)
