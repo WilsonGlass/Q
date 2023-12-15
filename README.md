@@ -25,6 +25,6 @@ Remote Win Interaction Diagram
 Client Class Diagram
 ![Client Class Diagram](Q/Client/client_class_diagram.png)
 
-Remote Signup Interaction Diagram
-![Remote Signup Interaction Diagram](Q/Client/remote_signup.png)
+Client Interaction Diagram
+![Client Interaction Diagram](Q/Client/client_interaction_diagram.png)
 
