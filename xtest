@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# All unit tests
+python3.9 Tests/test.py
+python3.9 Tests/test_points.py
+python3.9 Tests/test_player_strategy.py
+python3.9 Tests/test_config.py
+python3.9 Tests/test_referee.py
