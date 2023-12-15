@@ -4,7 +4,7 @@ Software Development (CS4500) project at Northeastern University. The requiremen
 
 <b>To connect multiple clients</b>: ./xclients port# < Tests/n-client-config
 
-UML Diagram of Q Players:
+<b>All UML Diagrams</b>
 ![PlayerMap](uml.png)
 
 Remote Signup Interaction Diagram
@@ -22,5 +22,9 @@ Remote Setup Interaction Diagram
 Remote Win Interaction Diagram
 ![Remote Win Interaction Diagram](Q/Server/remote_win.png)
 
-Ending Game
-![Ending Game](Q/Server/image.png)
+Client Class Diagram
+![Client Class Diagram](Q/Client/client_class_diagram.png)
+
+Remote Signup Interaction Diagram
+![Remote Signup Interaction Diagram](Q/Client/remote_signup.png)
+
