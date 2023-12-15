@@ -7,9 +7,20 @@ Software Development (CS4500) project at Northeastern University. The requiremen
 UML Diagram of Q Players:
 ![PlayerMap](uml.png)
 
+Remote Signup Interaction Diagram
 ![Remote Signup Interaction Diagram](Q/Server/remote_signup.png)
+
+Remote Turns Interaction Diagram
 ![Remote Turns Interaction Diagram](Q/Server/remote_turns.png)
+
+Remote Request New Tiles Interaction Diagram
 ![Remote Request New Tiles Interaction Diagram](Q/Server/remote_new_tiles.png)
+
+Remote Setup Interaction Diagram
 ![Remote Setup Interaction Diagram](Q/Server/remote_setup.png)
+
+Remote Win Interaction Diagram
 ![Remote Win Interaction Diagram](Q/Server/remote_win.png)
+
+Ending Game
 ![Ending Game](Q/Server/image.png)
