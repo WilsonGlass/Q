@@ -16,6 +16,14 @@ Player
 Server
 ![Remote Class Diagram](Q/Server/server_interaction_diagram.png)
 
+Client
+![Client Class Diagram](Q/Client/client_class_diagram.png)
+
+<b>Interaction Diagrams:</b>
+
+Client Interaction
+![Client Interaction Diagram](Q/Client/client_interaction_diagram.png)
+
 Remote Signup Interaction
 ![Remote Signup Interaction Diagram](Q/Server/remote_signup.png)
 
@@ -30,10 +38,4 @@ Remote Setup Interaction
 
 Remote Win Interaction
 ![Remote Win Interaction Diagram](Q/Server/remote_win.png)
-
-Client Class
-![Client Class Diagram](Q/Client/client_class_diagram.png)
-
-Client Interaction
-![Client Interaction Diagram](Q/Client/client_interaction_diagram.png)
 
