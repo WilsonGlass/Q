@@ -1,0 +1,7 @@
+{
+    "port": 10001,
+    "host": "localhost",
+    "wait": 2,
+    "quiet": true,
+    "players": [["A","dag","take-turn",2],["B","ldasg"],["C","dag","a cheat","tile-not-owned"],["D","dag","take-turn",1]]
+  }
