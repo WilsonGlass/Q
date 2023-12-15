@@ -5,6 +5,10 @@ Software Development (CS4500) project at Northeastern University. The requiremen
 <b>To connect multiple clients</b>: ./xclients port# < Tests/n-client-config
 
 <b>All UML Diagrams</b>
+Common Class Diagram
+![Common](Q/Common/common_class_diagram.png)
+
+Player Class Diagram
 ![PlayerMap](uml.png)
 
 Remote Signup Interaction Diagram
