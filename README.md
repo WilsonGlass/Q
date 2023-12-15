@@ -4,31 +4,33 @@ Software Development (CS4500) project at Northeastern University. The requiremen
 
 <b>To connect multiple clients</b>: ./xclients port# < Tests/n-client-config
 
-<b>All UML Diagrams</b>
-Common Class Diagram
+<b>All UML Diagrams:</b>
+
+
+Common
 ![Common](Q/Common/common_class_diagram.png)
 
-Player Class Diagram
+Player
 ![PlayerMap](uml.png)
 
-Remote Signup Interaction Diagram
+Remote Signup Interaction
 ![Remote Signup Interaction Diagram](Q/Server/remote_signup.png)
 
-Remote Turns Interaction Diagram
+Remote Turns Interaction
 ![Remote Turns Interaction Diagram](Q/Server/remote_turns.png)
 
-Remote Request New Tiles Interaction Diagram
+Remote Request New Tiles Interaction
 ![Remote Request New Tiles Interaction Diagram](Q/Server/remote_new_tiles.png)
 
-Remote Setup Interaction Diagram
+Remote Setup Interaction
 ![Remote Setup Interaction Diagram](Q/Server/remote_setup.png)
 
-Remote Win Interaction Diagram
+Remote Win Interaction
 ![Remote Win Interaction Diagram](Q/Server/remote_win.png)
 
-Client Class Diagram
+Client Class
 ![Client Class Diagram](Q/Client/client_class_diagram.png)
 
-Client Interaction Diagram
+Client Interaction
 ![Client Interaction Diagram](Q/Client/client_interaction_diagram.png)
 
