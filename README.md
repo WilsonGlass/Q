@@ -13,6 +13,9 @@ Common
 Player
 ![PlayerMap](uml.png)
 
+Server
+![Remote Class Diagram](Q/Server/server_interaction_diagram.png)
+
 Remote Signup Interaction
 ![Remote Signup Interaction Diagram](Q/Server/remote_signup.png)
 
