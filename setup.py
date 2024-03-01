@@ -16,7 +16,7 @@ setup(
               'Q.Util',
               'Q.Server',
               'Q.Client',
-              'Q.Common.RefereeMethods',
+              'Q.Client.RefereeMethods',
               'Q.Util.Configurations'
               ],
 )
