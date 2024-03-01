@@ -11,7 +11,7 @@ class ObserverGui(Frame):
     """
     Represents the GUI for the observer. Can seek through the game states provided.
     """
-    def __init__(self, game_states: list[GameState], master=None):
+    def __init__(self, game_states: List[GameState], master=None):
         self.game_states = game_states
         self.curr_turn = 0
 
